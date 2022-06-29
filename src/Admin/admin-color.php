@@ -9,7 +9,7 @@
  * @link        https://KnowTheCode.io
  * @license     GNU-2.0+
  */
-
+// like super brilliant
 namespace KnowTheCode\UpDevTools\Admin;
 
 use function KnowTheCode\UpDevTools\_get_plugin_root_dir;
